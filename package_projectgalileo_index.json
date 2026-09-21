@@ -10,7 +10,7 @@
       },
       "platforms": [
         {
-          "name": "Project Galileo Boards",
+          "name": "Project Galileo",
           "architecture": "i586",
           "version": "1.0.0",
           "category": "Contributed",
@@ -20,10 +20,10 @@
           "size": "496840",
           "boards": [
             {
-              "name": "Galileo"
+              "name": "Intel Galileo"
             },
             {
-              "name": "Galileo Gen2"
+              "name": "Intel Galileo Gen 2"
             }
           ],
           "toolsDependencies": [
