@@ -2,7 +2,7 @@
 # X86 compile variables
 # --------------------- 
 
-name=Project Galileo Boards
+name=Project Galileo
 # compiler.path TBD
 compiler.path={runtime.tools.i586-poky-linux-uclibc-1.6.3+1.0.path}/i586/pokysdk/usr/bin/i586-poky-linux-uclibc/
 compiler.path.windows={runtime.tools.i586-poky-linux-uclibc-1.6.3+1.0.path}/pokysdk/usr/bin/i586-poky-linux-uclibc/

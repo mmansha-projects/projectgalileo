@@ -16,8 +16,8 @@
           "category": "Contributed",
           "url": "https://github.com/mmansha-projects/Project-Galileo/releases/download/v1.0.0/ProjectGalileo-1.0.0.zip",
           "archiveFileName": "ProjectGalileo-1.0.0.zip",
-          "checksum": "SHA-256:7E8C608FED270A6F75E78F5169CEF464DC64174F1F6F966DC37191F8CBDDE175",
-          "size": "496840",
+          "checksum": "SHA-256:6174018E9ECE2DD609FF18E688500AD91BFE2E4992A96D41CBC2BF8EF6E22B30",
+          "size": "496837",
           "boards": [
             {
               "name": "Intel Galileo"
