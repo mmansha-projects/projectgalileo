@@ -14,7 +14,7 @@
           "architecture": "i586",
           "version": "1.0.0",
           "category": "Contributed",
-          "url": "https://github.com/YOUR-USERNAME/YOUR-REPO/releases/download/v1.0.0/ProjectGalileo-1.0.0.zip",
+          "url": "https://github.com/mmansha-projects/project-galileo/releases/download/v1.0.0/ProjectGalileo-1.0.0.zip",
           "archiveFileName": "ProjectGalileo-1.0.0.zip",
           "checksum": "SHA-256:7E8C608FED270A6F75E78F5169CEF464DC64174F1F6F966DC37191F8CBDDE175",
           "size": "496840",
@@ -47,7 +47,7 @@
           "systems": [
             {
               "host": "i686-mingw32",
-              "url": "https://github.com/YOUR-USERNAME/YOUR-REPO/releases/download/v1.0.0/galileo-toolchain-windows-1.6.2-1.0.zip",
+              "url": "https://github.com/mmansha-projects/project-galileo/releases/download/v1.0.0/galileo-toolchain-windows-1.6.2-1.0.zip",
               "archiveFileName": "galileo-toolchain-windows-1.6.2-1.0.zip",
               "checksum": "SHA-256:821EB290D7C668C1CAA74DA30903C13843EDC746D41508B35161622AE6279B56",
               "size": "45948648"
@@ -60,7 +60,7 @@
           "systems": [
             {
               "host": "i686-mingw32",
-              "url": "https://github.com/YOUR-USERNAME/YOUR-REPO/releases/download/v1.0.0/intel-arduino-tools-1.6.2-1.0-windows.zip",
+              "url": "https://github.com/mmansha-projects/project-galileo/releases/download/v1.0.0/intel-arduino-tools-1.6.2-1.0-windows.zip",
               "archiveFileName": "intel-arduino-tools-1.6.2-1.0-windows.zip",
               "checksum": "SHA-256:C32D1AE4CDE190242EEF95122D20DBCB5DA226E7DE6C567079A1C8C292267AE5",
               "size": "2534586"
